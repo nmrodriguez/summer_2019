@@ -1,0 +1,77 @@
+---
+title: "Summer 2018"
+author: "Cristina Lozano Argüelles"
+date: "26/3/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Summer session
+
+- Assitant coordinator: Cristina Lozano Argüelles
+- Email: cris.lozano@rutgers.edu
+- Skype: crislozano
+- Phone (whatsapp): 317-515-3252
+
+## First session
+
+- May 29th - July 6th
+- Grades due: July 8th
+- Instructors: Sandra Medina (101), Julio López (131)
+
+
+## Second session
+
+- July 9th - August 15th
+- Grades due: August 17th
+- Instructors: Jacob Price (102), Elisa Téllez (132)
+
+
+## Material Preparation
+
+
+### March
+
+- Book orders?
+- Who comes to orientation? (just 4 instructors)
+- Reminder for meeting
+- I don't have a textbook
+- Check WileyPlus
+- Accesss to sakai templates?
+- Tutorials + sillabi to ESA??
+- Email group components? 
+- My schedule for the online meetings (google doc better?)
+- Check 
+- 
+- March 30th: Sakai template sites ready (Cristina)
+- Decide on the topics for each meeting in each course
+
+
+
+
+### May
+
+- May 17th: Sakai sites and syllabi ready for review (instructors, email Cris when ready)
+- May 21st: approval/comments of Sakai sites and syllabi (Cristina)
+
+
+### June
+
+- June 1st: reminder grades for Sandra and Julio
+- August 8th: reminder grades for Elisa and Jacob
+
+
+# Course organization
+
+## 1st week
+
+- Student agreements and student profiles (recommended tool: Assignments)
+- Forum to organize groups:
+    - Post by Thursday (recommended) your name, where you live, dates and times when you can meet (10 min per week)
+    - Instructor: 
+    - 
+
+
